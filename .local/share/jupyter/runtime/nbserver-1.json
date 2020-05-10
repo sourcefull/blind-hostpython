@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/sourcefull-blind-hostpython-9skafor2/",
+  "base_url": "/user/sourcefull-blind-hostpython-gyfk1x5f/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "lT2ckG6CQOuRihb2OajjPg",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/sourcefull-blind-hostpython-9skafor2/"
+  "token": "ydADn-k6Tk6VhCD0C8RS-w",
+  "url": "http://0.0.0.0:8888/user/sourcefull-blind-hostpython-gyfk1x5f/"
 }
